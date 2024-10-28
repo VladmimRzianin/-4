@@ -1,4 +1,6 @@
 //14
+        
+        
         Console.Write("целое число N > 0 ");
         int N = int.Parse(Console.ReadLine());
 
